@@ -1,10 +1,10 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Impactos da IA Generativa na Sociedade em relaçao a segurança de dados
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá, a inteligencia artificial tem revolucionado diversos setores mas também traz consigo novos desafios, especialmente no que diz respeito à segurança de dados. Vamos analisar um pouco sobre isso.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Impactos da IA Generativa na Sociedade em relaçao a segurança de dados
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A Inteligência Artificial Generativa (IAG) tem revolucionado diversos setores, mas também traz consigo novos desafios, especialmente no que diz respeito à segurança de dados. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+    IA Generativa Gemini para crianção de imagens com texto;
+    IA Generativa ChatGpt para criação de texto;
+    IA Generativa Bing para criaçao de imagens.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Usei o gemini para me aprofundar um sobre a segurança de dados, em seguida usei o bing para criar algumas imagens que traz algo positivo para a sociedade em relaçao a segurança dos dados, e por ultimo usei o chatgpt para usufruir dos assuntos abordados por esse tema. 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+o ebook é uma maneira do leitor ter uma visão do futuro em relaçao aos seus dados.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É extremamente incrivel criar imagens com IAs generativa.
 ```
 
 ### Exemplos e Insigths
